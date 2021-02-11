@@ -1,9 +1,7 @@
 /* mipslabmain.c
 
-   This file written 2015 by Axel Isaksson,
-   modified 2015, 2017 by F Lundevall
-
-   Latest update 2017-04-21 by F Lundevall
+   This file written 2020 by Ali Shahwali and Emil Währme
+   
 
    For copyright and licensing, see file COPYING */
 
